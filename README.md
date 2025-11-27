@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Manab Bairagi
+# Hi there I'm Manab Bairagi
 
-## 🤖 Full-Stack AI/ML Engineer & Software Developer | B.Tech CSE Final Year (CGPA: 8.0)
+## Full-Stack AI/ML Engineer & Software Developer | B.Tech CSE Final Year (CGPA: 8.0)
 
 Passionate about building **intelligent systems** using deep learning, computer vision, and scalable backend infrastructure. Specialized in **satellite imagery analysis**, **distributed systems**, **cloud-native applications**, and **IoT engineering**.
 
@@ -10,7 +10,7 @@ Passionate about building **intelligent systems** using deep learning, computer 
 
 ## 🎯 Core Competencies
 
-**🧠 AI/ML & Deep Learning:**
+** AI/ML & Deep Learning:**
 - Deep Learning: PyTorch, TensorFlow, Keras, Custom Loss Functions
 - Computer Vision: Image segmentation, classification, object detection, super-resolution
 - Satellite Imagery: Multispectral analysis, earth observation, anomaly detection
@@ -59,7 +59,7 @@ Passionate about building **intelligent systems** using deep learning, computer 
 
 ## 📊 Featured Projects
 
-### 🎨 [DL-Studio](https://github.com/Manab-Bairagi/DL-Studio) ⭐ Most Impressive
+### 🎨 [DL-Studio](https://github.com/Manab-Bairagi/DL-Studio) ⭐
 **Interactive Deep Learning Platform** - Democratizing DL education and research
 - Interactive neural network visualization & design
 - AI-powered improvement suggestions
@@ -225,7 +225,7 @@ Coursework: Algorithms, Data Structures, System Design, Distributed Systems, Com
 
 ### ✨ *"Building intelligent systems that scale. One model, one microservice, one innovation at a time."*
 
-📌 **Explore my repositories**, check out the [EDITH Live Demo](https://edith-live.vercel.app/), and let's build something amazing together! 🚀
+📌 **Explore my repositories**, check out the [EDITH Live Demo](https://edith-live.vercel.app/).
 
 ---
 

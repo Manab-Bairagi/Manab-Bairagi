@@ -1,119 +1,232 @@
 # Hi there 👋 I'm Manab Bairagi
 
-## 🤖 AI/ML & Deep Learning Engineer | B.Tech CSE Final Year
+## 🤖 Full-Stack AI/ML Engineer & Software Developer | B.Tech CSE Final Year (CGPA: 8.0)
 
-Pasionate about building intelligent systems using deep learning and computer vision. Specialized in satellite imagery analysis, neural network optimization, and IoT applications.
+Passionate about building **intelligent systems** using deep learning, computer vision, and scalable backend infrastructure. Specialized in **satellite imagery analysis**, **distributed systems**, **cloud-native applications**, and **IoT engineering**.
+
+**📊 Achievements:** GATE 2025 Qualified | ISRO Hackathon Round 1 Cleared | Led 4-member teams | 8.0 CGPA
 
 ---
 
-## 🔬 Specializations
+## 🎯 Core Competencies
 
-- **Deep Learning**: PyTorch, TensorFlow, Keras
-- **Computer Vision**: Image segmentation, classification, object detection
-- **Satellite Imagery**: Multispectral image analysis, earth observation
-- **Model Optimization**: Hyperparameter tuning, quantization, GPU acceleration
-- **IoT & Edge AI**: Raspberry Pi, embedded systems, real-time inference
+**🧠 AI/ML & Deep Learning:**
+- Deep Learning: PyTorch, TensorFlow, Keras, Custom Loss Functions
+- Computer Vision: Image segmentation, classification, object detection, super-resolution
+- Satellite Imagery: Multispectral analysis, earth observation, anomaly detection
+- Model Optimization: Hyperparameter tuning, quantization, GPU acceleration (P100)
+
+**⚙️ Software Engineering & Backend:**
+- **Backend Development**: Node.js, Express.js, Flask, REST APIs, GraphQL
+- **Distributed Systems**: Docker, Microservices, API Gateway, System Design
+- **Databases**: MongoDB, MySQL, Query Optimization
+- **Infrastructure**: Cloud Architecture, Caching Systems, Performance Optimization
+- **Web Development**: React, Next.js, MERN Stack, Full-stack applications
+
+**🛡️ Key Strengths:**
+- Performance Optimization & Scalability
+- Team Leadership (Cross-functional teams)
+- System Design & Architecture
+- Problem-Solving & Reliability
+- Continuous Learning & Innovation
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `C++` `JavaScript` `TypeScript` `LISP`
+`Python` `JavaScript` `TypeScript` `C++` `C` `LISP`
 
 **ML/DL Frameworks:**  
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `NumPy` `Pandas`
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `OpenCV` `NumPy` `Pandas`
 
 **Deep Learning Architectures:**  
-`U-Net` `ResNet` `DeepLabV3+` `Xception` `VGG` `MobileNet`
+`U-Net` `ResNet` `DeepLabV3+` `Xception` `VGG` `MobileNet` `Custom Architectures`
+
+**Backend & Infrastructure:**  
+`Node.js` `Express.js` `Flask` `REST APIs` `Docker` `Microservices`
+
+**Databases & Storage:**  
+`MongoDB` `MySQL` `Cloud Storage Solutions`
 
 **Platforms & Tools:**  
-`Google Colab` `Kaggle` `Jupyter` `VS Code` `Git` `Docker`
+`Google Colab` `Kaggle` `Jupyter` `VS Code` `Git` `Postman` `Linux`
+
+**Web Tech:**  
+`React` `Next.js` `MERN Stack` `Gemini API` `Vapi`
 
 ---
 
 ## 📊 Featured Projects
 
-### 🎨 [DL-Studio](https://github.com/Manab-Bairagi/DL-Studio)
-Comprehensive platform for designing, visualizing, and optimizing deep learning models
-- Interactive neural network visualization
+### 🎨 [DL-Studio](https://github.com/Manab-Bairagi/DL-Studio) ⭐ Most Impressive
+**Interactive Deep Learning Platform** - Democratizing DL education and research
+- Interactive neural network visualization & design
 - AI-powered improvement suggestions
-- Support for multiple architectures (U-Net, ResNet, DeepLabV3+)
-- Real-time model testing
+- Multi-architecture support (U-Net, ResNet, DeepLabV3+, Xception)
+- Real-time model testing and export functionality
+- Built for students, researchers, and developers
 
-### 🎤 [Speech Movie Mood Recommendation](https://github.com/Manab-Bairagi/Speech_Movie_Mood_recommendation)
-End-to-end ML pipeline for emotion recognition and content recommendation
+### 🎓 [EDITH - AI Mock Interview System](https://edith-live.vercel.app/) 🔗 **[LIVE DEMO]**
+**Next.js, Gemini API, Vapi** - AI-Powered Real-time Interview Platform
+- Real-time voice interaction with AI interviewer
+- Intelligent feedback generation using Gemini AI
+- Interview transcription and analysis
+- Performance metrics and improvement suggestions
+- Production-ready deployment
+
+### 🏛️ [University Examination Management System (UEMS)](https://github.com/Manab-Bairagi/UEMS) - **LIVE**
+**MERN Stack** - Distributed System for Exam Management
+- Led 4-member development team
+- Exam scheduling, registration, and results management
+- User authentication & authorization
+- Role-based access control (Admin, Faculty, Students)
+- High availability & fault tolerance architecture
+- Scalable distributed system design
+
+### 🛰️ [Super Resolution for Satellite Imagery](https://github.com/Manab-Bairagi)
+**Deep Learning Model** - ISRO Hackathon Project
+- Upscale dual low-resolution satellite images
+- Custom deep learning model architecture
+- Land feature identification and vegetation monitoring
+- Currently deployed for real-world ISRO applications
+- **Achievement**: ISRO Hackathon Round 1 Cleared
+
+### ❄️ [Glacial Lake & Glacier Detection](https://github.com/Manab-Bairagi)
+**Custom Deep Learning Model** - Earth Observation for Climate
+- Custom loss functions for imbalanced satellite data
+- Glacial lake identification and flood prediction
+- Sustainable development monitoring near glaciers
+- Advanced image processing techniques
+- Climate change monitoring application
+
+### 📢 [Speech Movie Mood Recommendation](https://github.com/Manab-Bairagi/Speech_Movie_Mood_recommendation)
+**End-to-end ML Pipeline** - Emotion Recognition & Content Recommendation
 - Speech emotion detection using deep neural networks
+- Multi-modal learning approach
 - Personalized movie recommendations
-- Multi-modal learning
+- Real-time emotion analysis
 
-### 🗣️ [Speech Recognition](https://github.com/Manab-Bairagi/SpeechRecognition)
-Deep learning-based speech recognition and audio processing system
-
-### 🎓 [EDITH](https://github.com/Manab-Bairagi/EDITH)
-AI-powered interview platform with agentic AI for real-time feedback
-- ML-based assessment
-- Intelligent feedback generation
+### 🗣️ [Speech Recognition System](https://github.com/Manab-Bairagi/SpeechRecognition)
+**Deep Learning Audio Processing**
+- Deep learning-based speech recognition
+- Real-time audio processing
+- Custom model training for improved accuracy
 
 ### 📸 [Roster Attendance Tracker](https://github.com/Manab-Bairagi/Roster_attendanceTracker)
-Computer vision based attendance tracking using face recognition
+**Computer Vision Application**
+- Face recognition-based attendance system
+- Real-time detection and tracking
+- Integration with attendance management
+
+### 🎬 [3D Portfolio Website](https://github.com/Manab-Bairagi/3D_PORTFOLIO)
+**Interactive Web Experience** - Three.js, React
+- 3D visualization and animations
+- Immersive user interface
+- Portfolio showcase
 
 ---
 
-## 📈 What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
-- 🛰️ Disaster response systems using satellite imagery
-- 🔍 Anomaly detection in earth observation data
-- 🌐 Quantum image processing exploration
-- 📚 Research on model generalization across datasets
-- 🚀 Advanced agentic AI systems
+- 🛰️ **Disaster Response Systems** using satellite imagery & agentic AI
+- 🔍 **Anomaly Detection** in earth observation data
+- 🌐 **Quantum Image Processing** exploration
+- 📚 **Research** on model generalization across datasets
+- 🤖 **Advanced Agentic AI Systems** for automation
+- 💻 **Full-stack applications** with ML integration
+- 🏠 **IoT Home Security System** - Face recognition with Raspberry Pi
 
 ---
 
-## 🎯 Learning Goals
+## 📚 Experience & Projects
+
+### **Software Engineering Project** (University of Calcutta, 2022-Present)
+- Led 4-member cross-functional development team
+- Built distributed exam management system
+- Implemented authentication, authorization, RBAC
+- Ensured high availability, fault tolerance, and system redundancy
+- Infrastructure automation and performance optimization
+
+### **Recent Achievements:**
+- ✅ **GATE 2025** - Qualified with excellent score
+- ✅ **ISRO Hackathon 2025** - Round 1 Cleared (Space Technology Solutions)
+- ✅ **Continuous Innovation** - Multiple AI/ML projects deployed
+- ✅ **Team Leadership** - Successfully managed technical teams
+
+---
+
+## 🎯 Learning Goals & Interests
 
 - Advanced model architectures and techniques
-- Production ML systems and MLOps
+- Production ML systems & MLOps
 - Competitive programming & algorithmic optimization
 - Quantum computing applications
-- Research paper implementation and publication
+- Research paper implementation & publication
+- Distributed systems at scale
+- Cloud-native architecture
 
 ---
 
 ## 📊 GitHub Statistics
 
 - **89+ contributions** in the last year
-- **13 public repositories**
+- **13+ public repositories**
+- **Multiple deployed applications**
 - Continuous learner & open-source contributor
 - Active problem solver
+
+---
+
+## 📖 Education
+
+**Bachelor of Technology (B.Tech) in Computer Science Engineering**  
+*University of Calcutta* | **Final Year** | **CGPA: 8.0**  
+Coursework: Algorithms, Data Structures, System Design, Distributed Systems, Competitive Programming
+
+**GATE 2025**: ✅ **Qualified**  
+**ISRO Hackathon 2025**: ✅ **Round 1 Cleared**
 
 ---
 
 ## 💬 Let's Connect!
 
 - **GitHub**: [@Manab-Bairagi](https://github.com/Manab-Bairagi)
+- **Email**: manab04.bairagi@gmail.com
+- **Phone**: +91 9903719660
 - **Location**: India 📍
-- **Open to**: Internships, ML research projects, freelance work
+- **CGPA**: 8.0 | **GATE 2025**: Qualified
+- **Open to**: Full-time roles, ML Engineering, Software Engineering, Research, Internships
 
 ---
 
-## 🎓 Education
+## ⚡ Expertise Summary
 
-**Bachelor of Technology (B.Tech) in Computer Science Engineering**  
-*Final Year* | Pursuing coursework in Algorithms, Data Structures, Competitive Programming
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 Building neural networks is my hobby
-- 📖 Love reading research papers in deep learning
-- 🖥️ Prefer working with PyTorch for most projects
-- 🚀 Enjoy optimizing models for edge devices
-- 🌍 Interested in applying AI for climate and disaster management
+**I am a versatile engineer** combining:
+- 🧠 **Deep Learning Expertise** (PyTorch, TensorFlow, custom architectures)
+- 💻 **Full-Stack Development** (MERN, Next.js, Flask, Node.js)
+- 🏗️ **System Design & Architecture** (Distributed systems, microservices, scalability)
+- 📡 **Earth Observation & Satellite Imagery** (Advanced analysis, anomaly detection)
+- 🤖 **AI/Agentic Systems** (Intelligent automation, real-time processing)
+- 🎯 **Problem-Solving** (Custom solutions, optimization, innovation)
 
 ---
 
-### ✨ *"The best way to predict the future is to build it with code and AI!"*
+## 🏆 Why Hire Me?
 
-Feel free to explore my repositories and reach out for collaborations! 🤝
+✨ **Technical Excellence**: Advanced ML and full-stack development skills  
+✨ **Production-Ready**: Real-world deployed applications (EDITH, UEMS, ISRO projects)  
+✨ **Leadership**: Successfully led technical teams and cross-functional projects  
+✨ **Innovation**: ISRO Hackathon selection, GATE qualified, continuous learning  
+✨ **Reliability**: Focus on fault tolerance, high availability, performance optimization  
+✨ **Versatility**: AI/ML + Software Engineering + System Design expertise  
+
+---
+
+### ✨ *"Building intelligent systems that scale. One model, one microservice, one innovation at a time."*
+
+📌 **Explore my repositories**, check out the [EDITH Live Demo](https://edith-live.vercel.app/), and let's build something amazing together! 🚀
+
+---
+
+**Last Updated**: November 2025 | 🌟 If you find my work interesting, feel free to ⭐ my repositories!
